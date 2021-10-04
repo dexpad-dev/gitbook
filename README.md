@@ -32,7 +32,17 @@ Always make sure you communicate with us.
   * **Stake and Earn** Program to share revenue with our token holders.
   * **Buyback and Burn** Implementation
   * **CMC & CoinGecko** Listing.
+  
+* **Q1-2022**
 
+  * **Security Audit** of Presale Tokens.
+  * **Decentralised Exchange** on upcoming mainnets.
+  * A possible **Charity based NFT Market Place**
+  * Bridge for the Native token between  **CRO**, **ETH**, **BSC**, **Polygon**.
+  * Yeild Farming
+  * Education Program for New comers in crypto.
+
+  Further more roadmap is being prepared and will updated here.
 
 * **Q1-2022**
   * **Security Audit** of Presale Tokens.
