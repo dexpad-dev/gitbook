@@ -1,8 +1,7 @@
 ---
 description: >-
-  DexPad is blockchain agnostic IDO platform which covers entire token journey
-  from minting to launching it on decentralised  exchanges such as Uniswap,
-  PanCakeswap, QuickSwap or Cronswap.finance
+  is a truly decentralised and blockchain agnostic IDO Platform. Anyone can
+  launch their token without having any programming knowledge.
 ---
 
 # Welcome to the DexPad.io
