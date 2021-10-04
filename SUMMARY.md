@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Welcome to the DexPad.io](README.md)
+* [DexPad.IO](README.md)
+* [Links](links.md)
 
