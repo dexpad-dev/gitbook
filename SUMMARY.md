@@ -42,4 +42,3 @@
 * [I can't withdraw my refund](faqs/i-cant-withdraw-my-refund.md)
 * [Which presale did I buy?](faqs/which-presale-did-i-buy.md)
 * [\#DYOR](faqs/dyor.md)
-
