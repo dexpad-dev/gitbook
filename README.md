@@ -43,7 +43,7 @@ Always make sure you communicate with us.
   * **Yeild** Farming
   * Education Program for New comers in crypto.
 
-  Further more roadmap is being prepared and will updated here.
+  Further more roadmap is being prepared and will be updated here.
 
 \*\*\*\*
 
