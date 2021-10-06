@@ -8,7 +8,7 @@ To make this possible please ensure to reduce your decimals if you want to go wi
 
 Max Supply + Decimals = Max Amount of Tokens in the Liquidity
 
-![](https://github.com/dexpad-dev/gitbook/tree/885fc83ef57a9f95e101cdbd975ae583d7530405/.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image.png)
 
 ## Example:
 

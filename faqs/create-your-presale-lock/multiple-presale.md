@@ -1,4 +1,4 @@
-# Multiple Presale by Same Account
+# Multiple Presale
 
 ## Can I do two presales with the Same Contract?
 
