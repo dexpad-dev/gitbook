@@ -2,7 +2,7 @@
 
 ## **Website**
 
-[Websit](https://dexpad.io/)
+[Website](https://dexpad.io/)
 
 ## **Twitter**
 
