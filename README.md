@@ -13,6 +13,7 @@ As launchpad allows custom tokens, as a user you must do due deligence regarding
 Always make sure you communicate with us.
 
 * **Bruce** - **@DexBruce**
+* **Clark - @DexClark**
 
 ## **Road Map**
 
