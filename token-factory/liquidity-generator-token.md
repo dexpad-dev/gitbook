@@ -5,7 +5,10 @@
 * Customize fees to generate liquidty on dexes
 * Whitelist function for excemption of fees
 
-For more Informations about the functionality from this Fork, check out the official details from SafeMoon   
+For more Informations about the functionality from this Fork, check out the official details from SafeMoon  
 [https://safemoon.xyz/](https://safemoon.xyz/)
 
+
+
+![](../.gitbook/assets/screenshot-2021-10-06-at-7.21.14-pm.png)
 
