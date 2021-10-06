@@ -6,7 +6,7 @@ For us this plays an important role, since we are about to add this liquidity fo
 
 To make this possible please ensure to reduce your decimals if you want to go with a token with a very big supply.
 
-Max Supply + Decimals = Max Amount of Tokens in the Liquidity
+Max Supply \* Decimals = Max Amount of Tokens in the Liquidity
 
 ![](../../.gitbook/assets/image.png)
 
