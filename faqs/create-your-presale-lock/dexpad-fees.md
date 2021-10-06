@@ -1,6 +1,6 @@
 # DexPad Fees
 
-**The fees of our Platform are different on every Chain, so it's hard to generalize them.**
+**The fees of our Platform are different on every Chain, so it's hard to generalise them.**
 
 **Just visit our website and select the Product you want to use and you'll see the price.**
 
