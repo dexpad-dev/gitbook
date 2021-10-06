@@ -16,7 +16,7 @@ Other possible causes are mentioned below.
 8. ask them to disable liquidity fees so that users can transfer tokens
 9. make sure presale address has enough tokens that you are trying to claim
 
-### We cant do anything at this Point, if you don't understand why, you may read here:
+## We cant do anything at this Point, if you don't understand why, you may read here:
 
 Yeah actually most people basically dont understand what we are.
 
