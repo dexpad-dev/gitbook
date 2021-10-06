@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DexPad.IO](README.md)
+* [White Paper](white-paper.md)
 * [Tokenomics](tokenomics.md)
 * [Links](links/README.md)
   * [Telegram Groups](links/telegram-groups.md)
