@@ -10,12 +10,11 @@
 
 [https://t.me/DexPad](https://t.me/DexPad)
 
-## **Group for Presales
+## \*\*Group for Presales
 
 [https://t.me/DexPadPresales](https://t.me/DexPadPresales)
 
 ## **DexPad Price Chat**
 
 [https://t.me/DexPadPriceChat](https://t.me/DexPadPriceChat)
-
 
