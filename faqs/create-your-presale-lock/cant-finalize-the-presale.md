@@ -1,4 +1,4 @@
-# I Can't Finalize My Presale
+# Can't Finalize the Presale
 
 **Finalize can be called within 48hours when your presale is within 1 minimum contribution amount of the hardcap or when timer runs out.**
 
@@ -17,5 +17,4 @@ _Your BNBs then gets send to the connected DEX for creating the Pool for your Li
 **If you still got struggle, check out our official Channels and we may be able to direct you to your issues.**
 
 [https://t.me/DexPadDevs](https://t.me/DexPadDevs)
-
 

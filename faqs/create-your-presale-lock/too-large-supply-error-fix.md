@@ -1,14 +1,14 @@
-# Too Large Supply Error?
+# Too Large Supply Error: Fix
 
-Uniswap V2 has a limit on the maximum amount of Tokens in their liquidity.  
-  
-For us this plays an important role, since we are about to add this liquidity for you to the Router.  
-  
-To make this possible please ensure to reduce your decimals if you want to go with a token with a very big supply.  
-  
+Uniswap V2 has a limit on the maximum amount of Tokens in their liquidity.
+
+For us this plays an important role, since we are about to add this liquidity for you to the Router.
+
+To make this possible please ensure to reduce your decimals if you want to go with a token with a very big supply.
+
 Max Supply + Decimals = Max Amount of Tokens in the Liquidity
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](https://github.com/dexpad-dev/gitbook/tree/885fc83ef57a9f95e101cdbd975ae583d7530405/.gitbook/assets/image%20%2823%29.png)
 
 ## Example:
 

@@ -1,12 +1,12 @@
-# DexPad Fees?
+# DexPad Fees
 
 **The fees of our Platform are different on every Chain, so it's hard to generalize them.**
 
 **Just visit our website and select the Product you want to use and you'll see the price.**
 
-![](../../.gitbook/assets/image%20%2815%29%20%281%29.png)
+![](https://github.com/dexpad-dev/gitbook/tree/eef7794ce5ffcc2807e97b0e60bd8f362e0bf916/.gitbook/assets/image%20%2815%29%20%281%29.png)
 
-{% embed url="https://dexpad.io" %}
+{% embed url="https://dexpad.io" caption="" %}
 
 ## **2% Fee for Rebalancing?**
 
@@ -21,5 +21,4 @@ We don't have any access to these Tokens, and the amount we don't need is burnt.
 Additional to the value of the native chain token we charge 2% of the tokens you sold on our platform.
 
 These 2% are used for our revenue model, the BuyBackAndBurn, if you want to know more about it you can read it up here :\) [https://docs.dexpad.io/native-token/buy-back-and-burn](https://docs.dexpad.io/native-token/buy-back-and-burn)
-
 
