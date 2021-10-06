@@ -2,7 +2,7 @@
 
 ## **Website**
 
-(Website)[https://dexpad.io/]
+[Websit](https://dexpad.io/)
 
 ## Medium
 
