@@ -10,5 +10,5 @@ To see the refund you claimed, simply check under "Internal Txns" on your Platfo
 
 ## I am the Creator of a Presale and I want my Tokens back.
 
-You can claim your deposited tokens, if your SALE gets cancelled or fails.
+You can claim your deposited tokens, if your Presale gets cancelled or fails.
 
