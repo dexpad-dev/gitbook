@@ -6,9 +6,9 @@
 
 [https://t.me/DexPadDevs](https://t.me/DexPadDevs)
 
-## **Main Group \(English\)**
+## **Main Group (English)**
 
-[https://t.me/DexPad](https://t.me/DexPad)
+[https://t.me/DexPad\_IO](https://t.me/DexPad\_IO)
 
 ## \*\*Group for Presales
 
@@ -17,4 +17,3 @@
 ## **DexPad Price Chat**
 
 [https://t.me/DexPadPriceChat](https://t.me/DexPadPriceChat)
-
