@@ -1,8 +1,7 @@
 # Table of contents
 
 * [DexPad.IO](README.md)
-* [White Paper](white-paper.md)
-* [Tokenomics](tokenomics.md)
+* [Lite Paper & Tokenomics](white-paper.md)
 * [Links](links/README.md)
   * [Telegram Groups](links/telegram-groups.md)
   * [Official Networks](links/official-networks.md)
@@ -42,5 +41,4 @@
 * [I can't unlock my locked tokens](faqs/i-cant-unlock-my-locked-tokens.md)
 * [I can't withdraw my refund](faqs/i-cant-withdraw-my-refund.md)
 * [Which presale did I buy?](faqs/which-presale-did-i-buy.md)
-* [\#DYOR](faqs/dyor.md)
-
+* [#DYOR](faqs/dyor.md)

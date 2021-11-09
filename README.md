@@ -4,7 +4,7 @@
 
 DexPad allows anyone to mint their token and raise a capital through presales.
 
-As launchpad allows custom tokens, as a user you must do due deligence regarding the token and the team behind it. We restrict the honeypot contracts through our [**Anti-Honeypot**](https://dexpad.io) Mechanism, we still suggest investors to check team's social media accounts and their history on different anti-rug websites. Please checkout [**Terms and Conditions**](https://dexpad.io/termsandconditions) **\#DYOR**
+As launchpad allows custom tokens, as a user you must do due deligence regarding the token and the team behind it. We restrict the honeypot contracts through our [**Anti-Honeypot**](https://dexpad.io) Mechanism, we still suggest investors to check team's social media accounts and their history on different anti-rug websites. Please checkout [**Terms and Conditions**](https://dexpad.io/termsandconditions) **#DYOR**
 
 ## **Real Admins**
 
@@ -35,16 +35,15 @@ Always make sure you communicate with us.
   * **Stake and Earn** Program to share revenue with our token holders.
   * **Buyback and Burn** Implementation
   * **CMC & CoinGecko** Listing.
-* **Q1-2022**
+*   **Q1-2022**
 
-  * **Security Audit** of Presale Tokens.
-  * **Decentralised Exchange** on upcoming main-nets.
-  * A possible **Charity based NFT Market Place**
-  * Bridge for the Native token between  **CRO**, **ETH**, **BSC**, **Polygon**.
-  * **Yeild** Farming
-  * Education Program for New comers in crypto.
+    * **Security Audit** of Presale Tokens.
+    * **Decentralised Exchange** on upcoming main-nets.
+    * A possible **Charity based NFT Market Place**
+    * Bridge for the Native token between  **CRO**, **ETH**, **BSC**, **Polygon**.
+    * **Yeild** Farming
+    * Education Program for New comers in crypto.
 
-  Further more roadmap is being prepared and will be updated here.
+    Further more roadmap is being prepared and will be updated here.
 
-\*\*\*\*
-
+****
